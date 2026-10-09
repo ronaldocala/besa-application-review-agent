@@ -1,0 +1,20 @@
+test_attempt_to_advance_injected_sample_fails (test_policy.PolicyTests.test_attempt_to_advance_injected_sample_fails) ... ok
+test_boolean_is_not_numeric_experience (test_policy.PolicyTests.test_boolean_is_not_numeric_experience) ... ok
+test_duplicate_call_cannot_change_decision (test_policy.PolicyTests.test_duplicate_call_cannot_change_decision) ... ok
+test_fabricated_evidence_fails (test_policy.PolicyTests.test_fabricated_evidence_fails) ... ok
+test_injected_sample_not_100_even_if_model_misses_flag (test_policy.PolicyTests.test_injected_sample_not_100_even_if_model_misses_flag) ... ok
+test_instructions_cannot_be_evidence (test_policy.PolicyTests.test_instructions_cannot_be_evidence) ... ok
+test_log_write_failure_prevents_action (test_policy.PolicyTests.test_log_write_failure_prevents_action) ... ok
+test_maria_advances_at_100 (test_policy.PolicyTests.test_maria_advances_at_100) ... ok
+test_model_cannot_set_score_or_approve (test_policy.PolicyTests.test_model_cannot_set_score_or_approve) ... ok
+test_negation_not_dropped (test_policy.PolicyTests.test_negation_not_dropped) ... ok
+test_reject_is_always_pending (test_policy.PolicyTests.test_reject_is_always_pending) ... ok
+test_score_threshold_and_required_facts (test_policy.PolicyTests.test_score_threshold_and_required_facts) ... ok
+test_unknown_is_not_rejection (test_policy.PolicyTests.test_unknown_is_not_rejection) ... ok
+test_unknown_tool_is_logged_and_blocked (test_policy.PolicyTests.test_unknown_tool_is_logged_and_blocked) ... ok
+test_wrong_year_count_fails (test_policy.PolicyTests.test_wrong_year_count_fails) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.234s
+
+OK

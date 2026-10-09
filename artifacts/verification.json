@@ -1,0 +1,27 @@
+{
+  "verified_date": "2026-10-09",
+  "video_verified": true,
+  "source_hashes_verified": true,
+  "real_model_calls": 3,
+  "offline_tests_passed": 15,
+  "video_duration_seconds": 180,
+  "video_dimensions": [
+    1920,
+    1080
+  ],
+  "video_fps": 25,
+  "video_frames": 4500,
+  "audio_mean_db": -20.6,
+  "audio_peak_db": -2.2,
+  "visual_inspection_seconds": [
+    2,
+    40,
+    70,
+    100,
+    130,
+    179
+  ],
+  "visual_inspection": "All six encoded views readable, correct chapter content, no clipping or blank frames; AI narration label present. Layout follows the generated concept.",
+  "hyperframes_check": "passed: zero errors or warnings",
+  "video_sha256": "bb70ec8b23169260983219ee6f7c8e4d968a88b57e07006df7ddf0915f5041c5"
+}

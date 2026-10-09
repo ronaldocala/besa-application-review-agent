@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.env
+.env.*
+!.env.example
+runs/
+*.tmp
+video-project/
